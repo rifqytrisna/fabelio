@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # fabelio
 
 > 
@@ -21,6 +20,3 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-=======
-# fabelio# fabelio
->>>>>>> 74775bab271ce460427b64ce3fae852c6566938b
